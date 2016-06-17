@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ejemplo2</string>
+    <string name="botonpulsar">Pulsar</string>
+    <string-array name="dias">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+    </string-array>
+    <plurals name="numeroCancionesPermitidas">
+        <item quantity="one">Una canción </item>
+        <item quantity="two">dos canciones </item>
+        <item quantity="few">Pocas canciones </item>
+        <item quantity="other">Varias canciones </item>
+        <item quantity="zero">Cero canciones </item>
+    </plurals>
+    <string name="mensajes">Tienes %1$ mensajes de %2$</string>
+</resources>
